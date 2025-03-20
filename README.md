@@ -32,26 +32,28 @@ plugins:
 
 ## 🎨 效果展示
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center; flex: 0 1 auto;">
     <p><strong>正文</strong></p>
     <img src="https://cdn.jsdelivr.net/gh/Auzers/drawingbed/image/20250320110448217.png" 
          style="height: 400px; 
                 width: auto; 
                 max-width: 300px; 
                 border-radius: 6px; 
-                box-shadow: 0 2px 6px rgba(0,0,0,0.1);" 
+                box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+                display: inline-block;" 
          alt="正文">
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 0 1 auto;">
     <p><strong>目录</strong></p>
     <img src="https://cdn.jsdelivr.net/gh/Auzers/drawingbed/image/20250320115757038.png" 
          style="height: 400px; 
                 width: auto; 
                 max-width: 300px; 
                 border-radius: 6px; 
-                box-shadow: 0 2px 6px rgba(0,0,0,0.1);" 
+                box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+                display: inline-block;" 
          alt="目录">
   </div>
 </div>
