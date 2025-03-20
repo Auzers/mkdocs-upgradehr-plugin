@@ -25,7 +25,7 @@ pip install mkdocs-hr-plugin
 
 ```yaml
 plugins:
-  - upgradehr
+  - hr
 ```
 
 
@@ -33,27 +33,23 @@ plugins:
 ## 🎨 效果展示
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center; flex: 0 1 auto;">
+  <div style="text-align: center; margin: 10px;">
     <p><strong>正文</strong></p>
     <img src="https://cdn.jsdelivr.net/gh/Auzers/drawingbed/image/20250320110448217.png" 
-         style="height: 400px; 
+         style="height: 300px; 
                 width: auto; 
-                max-width: 300px; 
                 border-radius: 6px; 
-                box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-                display: inline-block;" 
+                box-shadow: 0 2px 6px rgba(0,0,0,0.1);" 
          alt="正文">
   </div>
 
-  <div style="text-align: center; flex: 0 1 auto;">
+  <div style="text-align: center; margin: 10px;">
     <p><strong>目录</strong></p>
-    <img src="https://cdn.jsdelivr.net/gh/Auzers/drawingbed/image/20250320115757038.png" 
-         style="height: 400px; 
+    <img src="https://cdn.jsdelivr.net/gh/Auzers/drawingbed/image/20250320122637910.png" 
+         style="height: 300px; 
                 width: auto; 
-                max-width: 300px; 
                 border-radius: 6px; 
-                box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-                display: inline-block;" 
+                box-shadow: 0 2px 6px rgba(0,0,0,0.1);" 
          alt="目录">
   </div>
 </div>
